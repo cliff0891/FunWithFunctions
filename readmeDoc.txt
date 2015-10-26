@@ -36,10 +36,10 @@ E:\COMSC\FunWithFunctionsProject>git add .
 E:\COMSC\FunWithFunctionsProject>git config user.name "cliff0891"
 
 5.git config user.email
-E:\COMSC\FunWithFunctionsProject>git config user.email yuyunc@student.swosu.edu
+E:\COMSC\FunWithFunctionsProject>git config user.email "yuyunc@student.swosu.edu"
 
 6. Start a browser
-7.to GitHub.  www.github.com
+7.to GitHub.  "https//www.github.com"
 8.login to your person account
 9.add a new repo
 10.follow the online instructions on how to:
